@@ -1,4 +1,4 @@
-
+# using a fork of pyaudio with as_loopback capabilities https://github.com/intxcc/pyaudio_portaudio
 import pyaudio
 import struct
 import math
